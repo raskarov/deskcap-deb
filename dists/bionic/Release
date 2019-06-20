@@ -1,19 +1,19 @@
 Origin: Monitask
 Label: monitask
 Codename: bionic
-Date: Mon, 17 Jun 2019 06:55:08 UTC
+Date: Thu, 20 Jun 2019 23:53:02 UTC
 Architectures: amd64
 Components: main
 Description: Monitask distribution repository
 MD5Sum:
- 035a348638b773b9b4d9aed03087a115 766 main/binary-amd64/Packages
- c06a797c48cbd26d96dd85773627dabb 518 main/binary-amd64/Packages.gz
+ 2a57e87ee4139ed7c147de1a36a01350 769 main/binary-amd64/Packages
+ de1f63f301132cd96fafea030cb0e3b2 510 main/binary-amd64/Packages.gz
  8bf618eab1b744596e7447e1a71a63d2 115 main/binary-amd64/Release
 SHA1:
- c6fdb7bdae83f26ee3f98bf5e843949b6783ff4e 766 main/binary-amd64/Packages
- daf568fefc680f2f08bc819c013f34bae59ff340 518 main/binary-amd64/Packages.gz
+ f38f3f27eef4a83aef8d3d8f6c6c65f4eef9170f 769 main/binary-amd64/Packages
+ 9bf8b9dd46ed47d2ef1cb709d65bfab0fd894190 510 main/binary-amd64/Packages.gz
  c316f28d2fbed36d1907ef9da527426b6cd6efa3 115 main/binary-amd64/Release
 SHA256:
- bc5cded60eac3be5ace7cb616762713283da8eaf3288a317d5a017606a4efa6a 766 main/binary-amd64/Packages
- f1a1244aa72235eb66cfd0b0bccf03378bd72758995deca416888edf475f53a5 518 main/binary-amd64/Packages.gz
+ d3276566f6f0c464997caa547f7e201754013c33f890522906cc667d48f58bee 769 main/binary-amd64/Packages
+ 81fd596c9c3fcf4a51bbb8fe6f1d6564a0ed142bbfcbe7d95b5a112ea57a972b 510 main/binary-amd64/Packages.gz
  9381950faeadc1e3fa889a19f66fa073cfa613395a0ac830ef8ace2f270ea7d0 115 main/binary-amd64/Release
