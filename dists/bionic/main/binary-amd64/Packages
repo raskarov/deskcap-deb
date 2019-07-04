@@ -1,16 +1,16 @@
 Package: monitask
-Version: 1.0.1
+Version: 1.0.3
 Architecture: amd64
 Maintainer: irategenius <superpuperpolly@gmail.com>
-Installed-Size: 93747
+Installed-Size: 93769
 Depends: xprintidle, libcairo2-dev
 Homepage: https://monitask.com/
 Priority: required
 Section: net
-Filename: pool/main/m/monitask/monitask_1.0.1_amd64.deb
-Size: 27614868
-SHA256: 5090c89b3fc437401c33d3a5bc39815e9ad7d336996534d744609269874077df
-SHA1: 42afabdd18e556f076e686e02cb2cc8d646f65bb
-MD5sum: 48d2293ebc1076b76cb9c99255c0a4e0
+Filename: pool/main/m/monitask/monitask_1.0.3_amd64.deb
+Size: 27622520
+SHA256: 7a49912a6fd89f36b1855c94aa793f942427e699620a02068d56543a2a7045bb
+SHA1: b6ed6162358e60f2552971b044601a3ba2fe9f48
+MD5sum: 28a4339df797b03c244da6855caef40d
 Description: Monitask desktop linux time tracker
 
