@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: Monitask
 Label: monitask
 Codename: bionic
-Date: Thu, 04 Jul 2019 00:08:53 UTC
+Date: Thu, 04 Jul 2019 07:52:33 UTC
 Architectures: amd64
 Components: main
 Description: Monitask distribution repository
 MD5Sum:
- de450fe837ad4619b2c15b41ab40574c 508 main/binary-amd64/Packages
- b6d6db059489aeede88dc01cdef13757 381 main/binary-amd64/Packages.gz
+ 6d9b51125a59794d4a84811c13a04c4a 508 main/binary-amd64/Packages
+ 5a9bc8a9629d3b4820ebe0e67e9bafbe 381 main/binary-amd64/Packages.gz
  8bf618eab1b744596e7447e1a71a63d2 115 main/binary-amd64/Release
 SHA1:
- 194d505b46d04310b5e0658de1e42c92b5c7f888 508 main/binary-amd64/Packages
- 65350ba2951a3eab20597d04ba8e7a9367305ff5 381 main/binary-amd64/Packages.gz
+ 5c4ceb65b2723ef161e845f47b178896e49b567d 508 main/binary-amd64/Packages
+ 897b8ba4f01a0bc263fdc59c72473c892933ec26 381 main/binary-amd64/Packages.gz
  c316f28d2fbed36d1907ef9da527426b6cd6efa3 115 main/binary-amd64/Release
 SHA256:
- b4df58376c436aa937f929e89796864bad11d00b263377a387b1bbe0ce5cabc8 508 main/binary-amd64/Packages
- d9cbb5c3fbb025de1e449144b45c5a13cf9f98652a6a9e1e515c9e11e0d6f5f9 381 main/binary-amd64/Packages.gz
+ df45cd012f0e435d52130133fdc64714a2442173f44e46448845037504201aeb 508 main/binary-amd64/Packages
+ 200c7bc6ddc4f632521ef78302edcfc1fc0961846875066befe78139cb9ea5a3 381 main/binary-amd64/Packages.gz
  9381950faeadc1e3fa889a19f66fa073cfa613395a0ac830ef8ace2f270ea7d0 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEvQf5TaJAkYBneg4/U3Ha2RzVrawFAl0dQ6gACgkQU3Ha2RzV
-raxchQv8DdEVhimXeRBri4/BbAj9B5ynQhX4lr699Y27rw2UsFVcvkTkvv1NSBqV
-tVeMtF/t+SNrDNSdDmjC2pNZB5Wkl8UipCW6LS57dNOnnpjohlwVcUhxBa659jt4
-B9C/Z4F/dNYKFcRuM3Tk/42LfRE37W0B6Ua4LOV7MDZA4BtWOaazqQwOnifSzWBb
-0ZUEDgHWHh0WzePQzK1JwtDzqHyvEBv8CyzNyP0GV16EG4uFQ9X/Kbu/0bLDtNFC
-xX00zGi0v7h1NP3JQHXgNEsTuNumPgtroMMiSSVOdYyIY7Rx81DM3CYmHuFYktNf
-9YJQVVMhM9xDaeUdog/rcutDVJVr2858Y0y7v5xUrz+WfUMuiVeQRxDaiGzR5uUJ
-ZU9c/bnMt2GR574RXIS3y6i+zELTQTNdRjQw+0lgXv4zzKMeZwdTCldLyJkWo8Il
-VX3e14Zn9tF2fPHdvJysQkyqWtbYisFLHYxahN7A0aFV9NuZedDGH9m2ki/jri4q
-LXzT4hN9
-=ETlg
+iQGzBAEBCgAdFiEEvQf5TaJAkYBneg4/U3Ha2RzVrawFAl0dsEgACgkQU3Ha2RzV
+raxW6Av/WW0NHn7szwm+i9EduVY03o3+tmgGJU9NJgAPIK6txtJuorS+Sl4YdVBk
+mWfLCh51xjSRwxHFPL4oHOk1uOA9eSxVZyyqHTMIl+yhhH7kTwVVhQumFkrznh8v
+urcrEuflQDMTMSfQH6RgHFrktLxQUGIV0o+Jdo15yX3QW2eT5XKHfBd6SWAgk/L0
+nuvTTRFMOweTMsYuOuTnDSKfE+hsWpvzN7VDMxLnLcpkAA/iGNYMnGN6xPaRkPU4
+z6G9lbDvCrGp9xK0E4xm+poH16BqrueP1THIBuXfEHOYAPEgDqyIQuTJM8W6dJeQ
+dVd9NlbcHfRoTTpk4L8q7LrWqRPZRx4z0jTbLanKVCzKApCKvryGA3/BXHWiRaBi
+TwRtcGcQMeqAMa+W7Gxq9SJrJDOHT4A7gNKLqshBXBV8Qbc799vInC4vNbfuBlqN
+6fZmqiHVL7tlnHKzADrwUAIegAh7lHYbwaXQ/K+pQD459kjB4D6JbUMiu5aDzBsS
+dIkpNMPV
+=33RJ
 -----END PGP SIGNATURE-----
