@@ -1,0 +1,5 @@
+Component: main
+Origin: Monitask
+Label: monitask
+Architecture: amd64
+Description: Monitask repository

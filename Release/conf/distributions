@@ -1,0 +1,7 @@
+Origin: Monitask
+Label: monitask
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Monitask repository
+SignWith: BD07F94DA2409180677A0E3F5371DAD91CD5ADAC

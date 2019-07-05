@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Monitask
+Label: monitask
+Codename: bionic
+Date: Fri, 05 Jul 2019 00:53:31 UTC
+Architectures: amd64
+Components: main
+Description: Monitask repository
+MD5Sum:
+ 9abae497445bbf600c602dd5f94482c3 508 main/binary-amd64/Packages
+ 1237c6621c595f82a7a21a37d50d1ea2 381 main/binary-amd64/Packages.gz
+ c85d046cc60e9a121ed986071b8541d8 102 main/binary-amd64/Release
+SHA1:
+ d0b0cf3e3186a4765239beb466cc7c3bfa33582b 508 main/binary-amd64/Packages
+ 7b201e12194bb1b771472b7721438568edce8494 381 main/binary-amd64/Packages.gz
+ 53a935c32fc199e8d28bfe26598b55cf70396289 102 main/binary-amd64/Release
+SHA256:
+ 0348e62ea5e04a9f9ab8e61023179b369333fd17977588eadb23bdbb1d7ccf34 508 main/binary-amd64/Packages
+ abac5cc50eca9c520061d7ff4422ad1527981aa8b0e4745c49b41933c7f13688 381 main/binary-amd64/Packages.gz
+ dc4cfd56fd2b478188f4f76b4e734b7d1f17c92812e39951c94d8f0b6a510e61 102 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEvQf5TaJAkYBneg4/U3Ha2RzVrawFAl0en5QACgkQU3Ha2RzV
+raz2Cgv/bmuZ6+TEuxXpUp/uHOi5fGjvovkcdF6Qr1YxBpFE6pzw1/A/RJ8se6DV
+HP5DwyhkptQzzrJo4J5Rqn+Zwl5W/qZGLDB2SqrdCRnRWvq1Is/rlhiv9p25m6AL
+N4IzJRPQ9A4BQd2Y1PHBnUxK/qRdN6SYRt26lDCBIefLtYODl1HBua6PdP8twZWI
+0OebVUsOd0q6AzENVWUJzq84ALjhzAnzS9ePQ1vxmMSRTQ+QiU/baW7ErqXwt+KS
+r+Nlc0yi/0XruHOeNNDiV0NdN5DdT79sCFsh0rvBFtjoyz3guAcPnMlkm40jbTqk
+F4Bm/YLmpENdMTPR+UMN0K+MsKvuAbDoV72Ted45Qp4b89/S21YCo+EgFzLUGhL/
+C2gqv7c5oK9gD0PbrCvrwNEgKVN4dYTvsCqnLJferANINAGZwkf9dDzvLxH7Sjdv
+4WU1BzOnLXDRxzHVz6kzvniHFm3FNxHnjt59qaRLArIvZImm2+fcIrtI2FRC9zH2
+suhTT4sU
+=w87X
+-----END PGP SIGNATURE-----
